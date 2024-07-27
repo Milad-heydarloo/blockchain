@@ -3,10 +3,13 @@
 
  پروژه تو Folder lib هست بازش کن برو تو main.dart 
  
+ 
   
  void main() {
   runApp(MyApp());
 }
+
+
 روی run کلیک کن تو متد بالا کنار  void main سمت چپشه
 
 
