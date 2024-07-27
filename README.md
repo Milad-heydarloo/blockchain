@@ -7,7 +7,7 @@
  void main() {
   runApp(MyApp());
 }
-روی run کلیک کن...
+روی run کلیک کن تو متد بالا کنار  void main سمت چپشه
 
 
 لیست PrivateKey رو اینجا بزار تو main 
